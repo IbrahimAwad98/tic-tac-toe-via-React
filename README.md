@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Detta är ett [Next.js](https://nextjs.org)-projekt som skapats med [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## Kom igång
 
-First, run the development server:
+För att starta utvecklingsservern, kör:
 
 ```bash
 npm run dev
-# or
+# eller
 yarn dev
-# or
+# eller
 pnpm dev
-# or
+# eller
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Öppna [http://localhost:3000](http://localhost:3000) i din webbläsare för att se resultatet.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Du kan börja redigera sidan genom att ändra `app/page.tsx`. Sidan uppdateras automatiskt när du sparar filen.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Detta projekt använder [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) för att automatiskt optimera och ladda [Geist](https://vercel.com/font), ett nytt typsnitt från Vercel.
 
-## Learn More
+## Läs mer
 
-To learn more about Next.js, take a look at the following resources:
+För att lära dig mer om Next.js, kolla in följande resurser:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js Dokumentation](https://nextjs.org/docs) - lär dig om Next.js funktioner och API.
+- [Lär dig Next.js](https://nextjs.org/learn) - en interaktiv Next.js guide.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Du kan också besöka [Next.js GitHub-repo](https://github.com/vercel/next.js) – feedback och bidrag välkomnas!
 
-## Deploy on Vercel
+## Distribuera på Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Det enklaste sättet att distribuera din Next.js-app är att använda [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Läs mer i [Next.js distributionsdokumentation](https://nextjs.org/docs/app/building-your-application/deploying) för fler detaljer.
